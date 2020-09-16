@@ -4,5 +4,6 @@ Prueple
 Pink
 Orange
 Blue
+Green
 Red
 Colors the rainbow
